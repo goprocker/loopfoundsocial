@@ -1,0 +1,30 @@
+{
+  "keyword": "found",
+  "public_replies": [
+    "Sent. Check your DMs.",
+    "On its way, have a look in your DMs.",
+    "Done! It's waiting in your messages.",
+    "Just messaged you. Peek at your DMs.",
+    "Check your inbox, we'll start there."
+  ],
+  "first_dm": "Hey {first_name}. Happy to do your free 5-point website audit. Reply send, and I'll tell you what I need.",
+  "first_dm_trigger_reply": "send",
+  "require_follow": true,
+  "collect": {
+    "question": "What's your website address? If you don't have one yet, just send your business name and town.",
+    "field": "website_or_business"
+  },
+  "delivery": {
+    "title": "Your free 5-point website audit",
+    "text": "Got it, thanks. We'll check five things that decide whether Google and AI search can find you, and send your audit here.",
+    "link": "[LINK: owner must supply the real audit page or booking URL before this is switched on, or remove]",
+    "button_label": "See what we check"
+  },
+  "ask_for_email": true,
+  "email_question": "Want the audit by email, too?",
+  "follow_up": {
+    "delay_minutes": 90,
+    "text": "Quick one while you wait: does your Google profile have your real opening hours?"
+  },
+  "handoff": "Every collected website goes to a human for the audit. The audit must be sent inside the 24-hour window or after the person messages again."
+}

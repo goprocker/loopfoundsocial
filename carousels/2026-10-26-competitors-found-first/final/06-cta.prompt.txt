@@ -1,0 +1,29 @@
+EXACT ASPECT RATIO: 3:4 vertical portrait only [1080x1440].
+BACKGROUND: one full-bleed photograph with a real camera look: a single
+directional light, deep soft shadows, a muted desaturated grade, fine film grain.
+Not glossy 3D, not a stock-photo smile, no faces looking at the camera.
+PALETTE: the photograph stays muted near-black, charcoal and concrete grey.
+Type in off-white #F4F1EA. Exactly one accent: signal orange #FF5A1F. No other
+bright colours anywhere.
+TYPOGRAPHY: a huge heavy tight sans headline taking most of the width, with
+normal spaces between words. Exactly one phrase per slide switches to orange or
+to an italic display serif. Body in a light clean sans, small. Render every
+quoted string exactly, letter for letter, with perfect spelling, and add no
+other words anywhere.
+SIGNATURE: every photograph shows one subject singled out from many identical
+ones or from a large empty space, marked by one loose hand-drawn signal-orange
+marker circle. Type may overlap the photo but never covers the singled-out subject.
+FOOTER: handle "@teamloopfound" bottom left in small off-white sans, a thin
+off-white arrow bottom right, on every slide except the last.
+NEVER: page numbers, dots, Instagram interface, like or comment counters,
+watermarks, real company logos, placeholder text, prices, statistics.
+
+Slide type: the one ask. One keyword, nothing else. No arrow on this slide.
+
+Headline in massive heavy sans, centred in the upper half: "Not getting found on Google?"
+Below it, inside one thin orange-outlined rounded box, in clean sans: "Comment "FOUND" and get a free 5-point website audit." The word "FOUND" in signal orange italic display serif, larger than the rest.
+
+Photograph: near-black background, a vast dark field of identical unlit map pins standing in rows, seen from low. One pin near the bottom centre glows warm and is circled with a loose orange marker loop. The upper half is almost pure dark, left empty for the type.
+
+Composition: the box with the ask is the focal point; the glowing pin below it; nothing else competes.
+Consistency: slide 6 of six, same grade, type, accent and footer as the cover.
