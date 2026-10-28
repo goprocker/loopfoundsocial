@@ -9,9 +9,9 @@ Rewrite it about twice a year, when the audience or the giveaway changes.
 - Services: modern high-performance websites, SEO and GEO (AI search) optimization, ongoing website maintenance.
 - Audience and their 2 a.m. problem: "Why are my competitors getting customers from Google while people can't even find my business online?" Every post answers some version of that sentence.
 - Voice, as a person: a tech-savvy friend who understands small business struggles, speaks in simple language, gives practical advice without showing off, and genuinely wants to help owners get more customers. Calm and direct.
-- What we give away: a free, personalized 5-point website audit showing what's stopping the website from attracting customers through Google and AI search.
-- Keyword: FOUND
-- Standard CTA: "Not getting found on Google? Comment FOUND and get a free 5-point website audit."
+- What we give away: a free website consultation: a short, personal look at what a new or rebuilt website needs to bring in customers from Google and AI search.
+- Keyword: changes with each post. One plain word tied to that post's topic (e.g. REVIEWS, MENU, BOOKING), set in brief.md. Never reuse a keyword two posts in a row.
+- Standard CTA: "Want a website that brings in customers? Comment <KEYWORD> and get a free website consultation."
 - Tagline: get found online
 
 ## Voice rules

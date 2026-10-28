@@ -19,6 +19,9 @@ Folders already used (do not repeat these topics from the last 14 days):
    the ask), headline six words or fewer, body 25 words or fewer, a link beside
    every fact. Write "Needs a fact" instead of inventing one.
 5. Write prompts.md: six prompts, each opening with the style block unchanged.
+5b. Pick this post's comment keyword: one plain word tied to the topic, not the
+   same as the last post's. Put it in brief.md as "Keyword: WORD" and use it in
+   slide 6 and the caption (see the standard CTA in CLAUDE.md).
 6. Write caption.txt: first line a hook, about 100 words, no hashtags, no
    link, last line is the same ask as slide 6.
 7. Do not generate images. Do not post, schedule, or message anyone.

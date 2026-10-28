@@ -1,0 +1,67 @@
+{
+  "filename": "reviews-guide.pdf",
+  "kicker": "FREE GUIDE",
+  "title": "Ask for reviews that work",
+  "subtitle": "Three small changes that get you detailed, recent reviews. No tricks, no paying for them.",
+  "intro": "A row of five-star ratings with two words each tells a new customer very little. AI search looks at what reviews say and how recent they are, not just the star count. The good news: you don't need more customers to fix this. You need to ask a little differently.",
+  "callout": {
+    "title": "The one rule",
+    "text": "Never write reviews for customers, and never pay or reward them for one. Only ask. Everything in this guide is about asking better."
+  },
+  "sections": [
+    {
+      "title": "Ask what you did",
+      "body": [
+        "\"Leave us a review\" gets you a star and a few words. A specific question gets a specific answer."
+      ],
+      "bullets": [
+        ["Instead of", "\"Could you leave us a review?\""],
+        ["Try", "\"What did we help you with today? A sentence or two in a review would mean a lot.\""],
+        ["Why it works", "people answer the question you ask. Ask about the job, and they'll describe the job."]
+      ]
+    },
+    {
+      "title": "Ask the same week",
+      "body": [
+        "Ask right after the job, while it's fresh. The customer still remembers the details, and recent reviews count."
+      ],
+      "bullets": [
+        ["Best moment", "when the customer says thank you, or when you hand over the finished work."],
+        ["Make it easy", "send your review link by text or email the same day, so it's one tap away."],
+        ["Keep it steady", "a few reviews every month beats a burst once a year."]
+      ]
+    },
+    {
+      "title": "Reply in plain words",
+      "body": [
+        "Answer every review, good or bad, in a sentence or two. Thank the person and name the service you did."
+      ],
+      "bullets": [
+        ["Example", "\"Thanks, Sam. Glad the boiler service went smoothly. See you next winter.\""],
+        ["For a bad review", "stay calm, say sorry for the trouble, and offer to sort it out directly."],
+        ["Why", "it shows people a real, active business is behind the name."]
+      ]
+    }
+  ],
+  "playbook": [
+    "Find your Google review link and save it on your phone.",
+    "Write your one question: \"What did we help you with today?\"",
+    "Ask every customer the same day the job is done.",
+    "Send the link by text or email right after you ask.",
+    "Reply to every new review within a few days, naming the service."
+  ],
+  "mistakes": [
+    "Writing reviews yourself or asking friends to.",
+    "Offering a discount or gift in exchange for a review.",
+    "Asking weeks later, when the customer has forgotten the details.",
+    "Copy-paste replies that say the same thing every time.",
+    "Ignoring bad reviews instead of answering them calmly."
+  ],
+  "faq": [
+    ["Do I need hundreds of reviews?", "No. Detailed, recent reviews from real customers matter more than a big number."],
+    ["What if a customer writes a short review?", "That's fine. Thank them anyway. The next question you ask will get a longer one."]
+  ],
+  "sources": [
+    ["Reviews as trust signals for AI and local search (BrightLocal)", "https://www.brightlocal.com/learn/ai-and-local-search-tips/"]
+  ]
+}

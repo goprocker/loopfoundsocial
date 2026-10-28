@@ -4,7 +4,7 @@ The content workspace for **@teamloopfound**: a six-slide Instagram carousel wor
 
 LoopFound helps local shops and service businesses turn outdated or missing websites into ones that get found on Google and AI search. Every post answers one question: *"Why are my competitors getting customers from Google while people can't even find my business online?"*
 
-> Tagline: **get found online** · Call to action: *Comment FOUND and get a free 5-point website audit.*
+> Tagline: **get found online** · Call to action: *Comment <KEYWORD> and get a free website consultation.* (keyword changes per post)
 
 ## How it works
 
@@ -19,7 +19,7 @@ Each carousel goes through two halves: **Make** and **Run**.
 | 5 | `05-generate-and-check.md` | Generate images by hand, then a six-point quality check | `final/` |
 | 6 | `06-caption.md` | Caption, with each claim checked against a source | `caption.txt` |
 | 7 | `07-publish.md` | Publishing lanes (manual first) | `publish/` |
-| 8 | `08-replies-and-review.md` | FOUND keyword replies and the weekly review | `automations/`, `review/` |
+| 8 | `08-replies-and-review.md` | Keyword replies and the weekly review | `automations/`, `review/` |
 
 ## Folder map
 
@@ -35,7 +35,7 @@ carousels/<date>-<topic>/
   prompts.md           Six image prompts
   caption.txt          Instagram caption
   final/               Approved slides (.png, .jpg, .prompt.txt)
-automations/           FOUND keyword reply rules
+automations/           Keyword reply rules
 publish/               Publishing setup
 review/funnel.csv      Results tracking
 ```

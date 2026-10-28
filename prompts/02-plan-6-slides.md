@@ -17,7 +17,7 @@ keep name, address and phone identical everywhere, answer real customer question
 Limits: headline six words or fewer, body 25 words or fewer, one idea per
 slide. If a slide needs a second idea, that is a second slide.
 
-Slide six is one ask: comment FOUND and get a free 5-point website audit.
+Slide six is one ask: comment <KEYWORD> (one plain word from this post's topic) and get a free website consultation.
 
 Use only the facts I gave you. If a slide needs a fact I did not give, write
 "Needs a fact" instead of inventing one.

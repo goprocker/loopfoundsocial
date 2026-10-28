@@ -151,7 +151,7 @@ off-white arrow bottom right, on every slide except the last.
 NEVER: page numbers, dots, Instagram interface, like or comment counters,
 watermarks, real company logos, placeholder text, prices, statistics.
 SLIDE TYPE: the ask, last slide, no footer arrow
-WORDS: headline "Not getting found on Google?" top; body: "Comment "FOUND" and get a free 5-point website audit.", "FOUND" large in orange
+WORDS: headline "Want more customers online?" top; body: "Comment "REVIEWS" for a free website consultation.", "REVIEWS" large in orange
 PICTURE: one small lit shop window among a long dark empty street, circled in orange, lower third
 COMPOSITION: headline top two-thirds, subject lower third, generous negative space.
 CONSISTENCY: slide 6 of six, same palette, type and footer as the cover.
