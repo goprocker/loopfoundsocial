@@ -1,0 +1,22 @@
+EXACT ASPECT RATIO: 3:4 vertical portrait only [1080x1440].
+BACKGROUND: one full-bleed photograph with a real camera look: a single
+directional light, deep soft shadows, a muted desaturated grade, fine film grain.
+Not glossy 3D, not a stock-photo smile, no faces looking at the camera.
+PALETTE: the photograph stays muted near-black, charcoal and concrete grey.
+Type in off-white #F4F1EA. Exactly one accent: signal orange #FF5A1F. No other
+bright colours anywhere.
+TYPOGRAPHY: a huge heavy tight sans headline taking most of the width, with
+normal spaces between words. Exactly one phrase per slide switches to orange or
+to an italic display serif. Body in a light clean sans, small. Render every
+quoted string exactly, letter for letter, with perfect spelling, and add no
+other words anywhere.
+SIGNATURE: every photograph shows one subject singled out from many identical
+ones or from a large empty space, marked by one loose hand-drawn signal-orange
+marker circle. Type may overlap the photo but never covers the singled-out subject.
+FOOTER: handle "@teamloopfound" bottom left in small off-white sans, a thin
+off-white arrow bottom right, on every slide except the last.
+NEVER: page numbers, dots, Instagram interface, like or comment counters,
+watermarks, real company logos, placeholder text, prices, statistics.
+SLIDE TYPE: fix two
+WORDS: "Hours and address up front" huge headline, "up front" in orange; small pill: "fix two"; small body: "The first screen should answer: are you open, and where are you?"
+PICTURE: a dark street of identical closed shutters at night, one shop with a single warm lit window, circled in orange
